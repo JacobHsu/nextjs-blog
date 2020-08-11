@@ -20,8 +20,23 @@ This is using a library called [styled-jsx](https://github.com/vercel/styled-jsx
 
 Out of the box, with no configuration, Next.js compiles CSS using [PostCSS](https://postcss.org/).
 
-# References
+
+## Dynamic Routes
+
+Pages that begin with `[` and end with `]` are `dynamic routes` in Next.js.
+
+
+[Module not found: Can't resolve](https://github.com/vercel/next.js/issues/7755) 'fs' #7755
+
+## fetching
+
+SWR React Hooks for data fetching
+
+The team behind Next.js has created a React hook for data fetching called [SWR](https://swr.vercel.app/).
+
+## References
 
 [创建 Next.js 应用程序](https://www.nextjs.cn/learn/basics/create-nextjs-app/setup)
 [Navigate Between Pages](https://nextjs.org/learn/basics/navigate-between-pages)
 [Assets, Metadata, and CSS](https://nextjs.org/learn/basics/assets-metadata-css)
+[Dynamic Routes](https://nextjs.org/learn/basics/dynamic-routes) [dynamic-routes-step-1](https://github.com/vercel/next-learn-starter/tree/master/dynamic-routes-step-1) 1-5
